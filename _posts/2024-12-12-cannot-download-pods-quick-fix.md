@@ -1,8 +1,7 @@
 ---
 title: "Cannot Download Pods: Quick Fix for CocoaPods Installation Issues"
-date: 2024-12-13
-updated: 2024-12-13
-author: your_full_name
+date: 2024-12-12
+updated: 2024-12-12
 tags: [iOS, CocoaPods, Troubleshooting, MacOS, Flutter]
 excerpt: "A quick guide to resolving CocoaPods installation issues."
 ---
