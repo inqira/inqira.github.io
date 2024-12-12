@@ -36,7 +36,7 @@ social:
   email: inqira@inqira.io # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - inqira.io
+    # - inqira.io
 
 # Site Verification Settings
 webmaster_verifications:
